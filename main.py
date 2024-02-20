@@ -6,7 +6,7 @@ import sys
 import pyaudio
 import time
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './complete-galaxy-414912-4c68c6c7495a.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = ''
 
 # Audio recording parameters
 RATE = 16000
