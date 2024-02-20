@@ -1,0 +1,4 @@
+protobuf==3.20.3
+PyAudio==0.2.14
+google-cloud-speech==2.24.1
+google-cloud-translate==2.0.1
