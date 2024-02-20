@@ -1,6 +1,6 @@
 import os
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = './complete-galaxy-414912-4c68c6c7495a.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = ''
 
 def translate_text(target: str, text: str) -> dict:
     """Translates text into the target language.
